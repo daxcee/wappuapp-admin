@@ -1,0 +1,16 @@
+{
+  "name": "wappuapp-admin",
+  "version": "1.0.0",
+  "description": "Admin interface for wappuapp",
+  "author": "Tomi Turtiainen <tomi.turtiainen@gmail.com> (http://github.com/tomi)",
+  "contributors": [
+    "Tomi Turtiainen <tomi.turtiainen@gmail.com> (http://github.com/tomi)"
+  ],
+  "scripts": {
+    "start": "source .env && nodemon --watch . src/server.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "basic-auth": "^1.0.3"
+  }
+}
