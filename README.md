@@ -8,7 +8,7 @@
 
 * `npm install`
 * `cp .env-sample .env`
-* Fill in the blanks in `.env` and `.env-test` files
+* Fill in the blanks in `.env`
 
   Ask details from Tomi Turtiainen.
 
